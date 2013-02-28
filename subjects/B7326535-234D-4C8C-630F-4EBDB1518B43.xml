@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="B7326535-234D-4C8C-630F-4EBDB1518B43" ownedBy="8894EEC0-DC96-4304-1EFC-4572FD91717A">
+  <arch:name>
+    <arch:string>VII</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Stratum</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_8657d3acf</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>505B47E3-A186-42CF-5860-7A601472B1E7</arch:variableID>
+          <arch:integer>18000</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/DCA2FC1D-2A2F-4596-91AB-6828F7DF98F9">DCA2FC1D-2A2F-4596-91AB-6828F7DF98F9</oc:propid>
+          <oc:var_label type="integer">BP Cal. From</oc:var_label>
+          <oc:show_val>18000</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>256C1417-C6AE-4657-D745-AFC74C9B2DF0</arch:variableID>
+          <arch:integer>17300</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/D62250A0-116B-47C1-D7D3-E17FFBED2182">D62250A0-116B-47C1-D7D3-E17FFBED2182</oc:propid>
+          <oc:var_label type="integer">BP Cal. To</oc:var_label>
+          <oc:show_val>17300</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7001A3F5-F60C-4B6B-D87E-410C95A4CD90</arch:variableID>
+          <arch:valueID>636945E3-E788-4C51-5928-C1A6A3CDFB87</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FC848444-3B3E-4603-B90D-51C66922C9F7">FC848444-3B3E-4603-B90D-51C66922C9F7</oc:propid>
+          <oc:var_label type="nominal">Climate Phase</oc:var_label>
+          <oc:show_val>Oldest Dryas (I)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B5A1C0C6-DAAA-46D0-CF2A-DE50168FDC8B</arch:variableID>
+          <arch:valueID>D216D540-2EAB-44C7-1235-726F9601D4B8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/14717647-792C-490B-C974-F2BFA24DE9DE">14717647-792C-490B-C974-F2BFA24DE9DE</oc:propid>
+          <oc:var_label type="nominal">Archaeological Unit</oc:var_label>
+          <oc:show_val>II</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AE2B2F91-DD2E-4A9E-3D08-2D9168375537</arch:variableID>
+          <arch:valueID>122FE840-6C18-4A8E-8E9D-37C8196BE33B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4EE0ED01-20D9-4007-22AF-F2D89FE929A4">4EE0ED01-20D9-4007-22AF-F2D89FE929A4</oc:propid>
+          <oc:var_label type="alphanumeric">Stratum</oc:var_label>
+          <oc:show_val>Öküzini Cave Combined GH VII</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9E7C3D85-7761-4647-87E1-1E12DD8914C5</arch:variableID>
+          <arch:valueID>1287A167-BAE8-4333-CCA3-56C1BC6C9908</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7DF6D17D-2232-4D03-4745-F45FD28FDE0E">7DF6D17D-2232-4D03-4745-F45FD28FDE0E</oc:propid>
+          <oc:var_label type="alphanumeric">Faunal Assemblage</oc:var_label>
+          <oc:show_val>OK2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>818A3134-1272-4122-2FC6-10E6CEEEF93F</arch:variableID>
+          <arch:integer>2</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/5170C3AF-635F-41E8-3C89-EED5350AED86">5170C3AF-635F-41E8-3C89-EED5350AED86</oc:propid>
+          <oc:var_label type="integer">Phase</oc:var_label>
+          <oc:show_val>2</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+        <oc:name>Öküzini Cave</oc:name>
+        <oc:id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/7AAF90DF-7F94-458D-9263-7AE1EC6123B3">
+        <oc:name>Square I10d</oc:name>
+        <oc:id>7AAF90DF-7F94-458D-9263-7AE1EC6123B3</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8E079144-CE93-4B35-986F-6F0F4F65F822">
+        <oc:name>Square I9b</oc:name>
+        <oc:id>8E079144-CE93-4B35-986F-6F0F4F65F822</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AE9A93ED-EF82-4F10-A546-2C659220B915">
+        <oc:name>Square J10b</oc:name>
+        <oc:id>AE9A93ED-EF82-4F10-A546-2C659220B915</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3AD59C99-B4B7-4722-7572-1C4FB6DE6236">
+        <oc:name>Square J10c</oc:name>
+        <oc:id>3AD59C99-B4B7-4722-7572-1C4FB6DE6236</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B48DEDB5-2C3E-45D1-B541-319DC56A74C2">
+        <oc:name>Square J5c</oc:name>
+        <oc:id>B48DEDB5-2C3E-45D1-B541-319DC56A74C2</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/869E4CBE-4ACC-4D6E-0CEB-DFEB46C58B20">
+        <oc:name>Square J5d</oc:name>
+        <oc:id>869E4CBE-4ACC-4D6E-0CEB-DFEB46C58B20</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C375C56E-B1E7-4575-B5A4-239B57FAD6A8">
+        <oc:name>Square J8c</oc:name>
+        <oc:id>C375C56E-B1E7-4575-B5A4-239B57FAD6A8</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F0D43B43-CD4F-4085-F317-43F93AFB7706">
+        <oc:name>Square J9a</oc:name>
+        <oc:id>F0D43B43-CD4F-4085-F317-43F93AFB7706</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/174B286E-98A2-42D5-D629-81FED95C1BA2">
+        <oc:name>Square J9b</oc:name>
+        <oc:id>174B286E-98A2-42D5-D629-81FED95C1BA2</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AEFE0F03-4F2C-4204-C9E1-4B1DA840D94D">
+        <oc:name>Square J9c</oc:name>
+        <oc:id>AEFE0F03-4F2C-4204-C9E1-4B1DA840D94D</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/67A1F8BC-00F1-4965-C363-ED5EFC3679DD">
+        <oc:name>Square J9d</oc:name>
+        <oc:id>67A1F8BC-00F1-4965-C363-ED5EFC3679DD</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3676B8E1-B058-455F-915A-3581B49B1598">
+        <oc:name>Square K10a</oc:name>
+        <oc:id>3676B8E1-B058-455F-915A-3581B49B1598</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BD15C1DE-CFA7-4903-3069-158AE3719F28">
+        <oc:name>Square K5c</oc:name>
+        <oc:id>BD15C1DE-CFA7-4903-3069-158AE3719F28</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/70618007-18E6-4ED0-2639-04E6498F2192">
+        <oc:name>Square K6b</oc:name>
+        <oc:id>70618007-18E6-4ED0-2639-04E6498F2192</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2591D244-80DB-4BA4-311D-D3D6BC4159D9">
+        <oc:name>Square K9b</oc:name>
+        <oc:id>2591D244-80DB-4BA4-311D-D3D6BC4159D9</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/785D5F8F-16D0-4E84-1365-B8C290FC4979">
+        <oc:name>Square K9c</oc:name>
+        <oc:id>785D5F8F-16D0-4E84-1365-B8C290FC4979</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1B851193-AED7-485C-C150-86411E662EF4">
+        <oc:name>Square K9d</oc:name>
+        <oc:id>1B851193-AED7-485C-C150-86411E662EF4</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F76A7D8E-2C13-4929-67E1-EC8B3FBC28E3">
+        <oc:name>Square L9c</oc:name>
+        <oc:id>F76A7D8E-2C13-4929-67E1-EC8B3FBC28E3</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Öküzini Cave: VII (Stratum)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-27</dc:date>
+    <dc:subject>Öküzini Cave</dc:subject>
+    <dc:subject>Western Taurus Mountains</dc:subject>
+    <dc:subject>South West Anatolia</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Epipaleolithic</dc:subject>
+    <dc:subject>Terminal Pleistocene</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Forager adaptations</dc:subject>
+    <dc:subject>Hunting</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/CABB34F2-F360-405A-A7BE-0898A89193B8">Levent Atici</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/B7326535-234D-4C8C-630F-4EBDB1518B43</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8894EEC0-DC96-4304-1EFC-4572FD91717A">Zooarchaeology of Öküzini Cave</oc:project_name>
+    <oc:pub_date>2013-02-27T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+%C3%96k%C3%BCzini+Cave%3A+VII+%28Stratum%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=%C3%96k%C3%BCzini+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Forager+adaptations&amp;rft.subject=Hunting&amp;rft.subject=Subsistence&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FB7326535-234D-4C8C-630F-4EBDB1518B43</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.08335</oc:geo_lat>
+      <oc:geo_long>30.579436</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+        <oc:source_name>Öküzini Cave</oc:source_name>
+        <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-28T01:03:59-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/28 01:03:59</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(18K BCE - 11K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-17840</oc:time_start>
+          <oc:time_finish>-10950</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+            <oc:source_name>Öküzini Cave</oc:source_name>
+            <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T16:54:10-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

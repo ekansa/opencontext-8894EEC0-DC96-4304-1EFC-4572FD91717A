@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="2D5EC703-DDBB-4ADB-F786-4669F2DC8918" ownedBy="8894EEC0-DC96-4304-1EFC-4572FD91717A">
+  <arch:name>
+    <arch:string>Öküzini Cave</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>manual</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>1287FFE0-8AEA-4018-BB73-8A499A5CEA33</arch:variableID>
+          <arch:valueID>5AF3C059-99D2-4422-BCA2-00FE18A7D415</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7327B391-DD79-46BD-546A-EB393A4B73EB">7327B391-DD79-46BD-546A-EB393A4B73EB</oc:propid>
+          <oc:var_label type="alphanumeric">External Reference</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <a href="http://id.loc.gov/authorities/subjects/sh2004009794">Library of Congress, Subject Heading</a>
+            </div>
+          </oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">57E1BE1E-7B89-4923-4525-2B18D1ABDD8D</arch:docID>
+        <arch:docID type="resource" info="link">83A327CD-EF40-402F-2D0B-1C409E7BAFDB</arch:docID>
+        <arch:docID type="resource" info="link">83D49578-4244-48B5-E596-A3489BF9EEC0</arch:docID>
+        <arch:docID type="resource" info="link">AC8CD481-CA81-4D4C-7C1B-27B4C9FCA140</arch:docID>
+        <arch:docID type="resource" info="link">9B4A8662-E84F-476E-AE13-E7F0F4C7E812</arch:docID>
+        <arch:docID type="resource" info="link">DD3CC806-B76A-4BF9-910F-3F407B6571B7</arch:docID>
+        <arch:docID type="resource" info="link">63E9A22F-14EB-4636-646C-8005CA5CA291</arch:docID>
+        <arch:docID type="resource" info="link">20A15551-6072-402D-897E-34BDBBA09230</arch:docID>
+        <arch:docID type="resource" info="link">96714B6C-C073-45E8-0A5B-633096CF1277</arch:docID>
+        <arch:docID type="resource" info="link">0E145AC4-01FF-4410-9408-C4BFEAA3E15A</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/57E1BE1E-7B89-4923-4525-2B18D1ABDD8D">
+            <oc:name>Okuzini from the Plain</oc:name>
+            <oc:id>57E1BE1E-7B89-4923-4525-2B18D1ABDD8D</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20from%20the%20Plain%203.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/83A327CD-EF40-402F-2D0B-1C409E7BAFDB">
+            <oc:name>Okuzini excavation</oc:name>
+            <oc:id>83A327CD-EF40-402F-2D0B-1C409E7BAFDB</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20Cave%20excavation%20areas.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/83D49578-4244-48B5-E596-A3489BF9EEC0">
+            <oc:name>Okuzini from the Plain</oc:name>
+            <oc:id>83D49578-4244-48B5-E596-A3489BF9EEC0</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20from%20the%20Plain%201.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/AC8CD481-CA81-4D4C-7C1B-27B4C9FCA140">
+            <oc:name>Okuzini from the Plain</oc:name>
+            <oc:id>AC8CD481-CA81-4D4C-7C1B-27B4C9FCA140</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20from%20the%20Plain.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/9B4A8662-E84F-476E-AE13-E7F0F4C7E812">
+            <oc:name>Okuzini Main Profile and Dates</oc:name>
+            <oc:id>9B4A8662-E84F-476E-AE13-E7F0F4C7E812</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20Main%20Profiel%20with%20dates.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/DD3CC806-B76A-4BF9-910F-3F407B6571B7">
+            <oc:name>Okuzini Sampling</oc:name>
+            <oc:id>DD3CC806-B76A-4BF9-910F-3F407B6571B7</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20sampling.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/63E9A22F-14EB-4636-646C-8005CA5CA291">
+            <oc:name>Okuzini Site Plan</oc:name>
+            <oc:id>63E9A22F-14EB-4636-646C-8005CA5CA291</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Okuzini%20site%20plan.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/20A15551-6072-402D-897E-34BDBBA09230">
+            <oc:name>Travertine Plain near Okuzini</oc:name>
+            <oc:id>20A15551-6072-402D-897E-34BDBBA09230</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/okuzini/thumbs/Travertain%20Plain%20near%20Okuzini%20cave%201.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/96714B6C-C073-45E8-0A5B-633096CF1277">
+            <oc:name>Karain and Okuzini Chronology Chart</oc:name>
+            <oc:id>96714B6C-C073-45E8-0A5B-633096CF1277</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/karain%20and%20Okuzini%20Chronology%201.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/0E145AC4-01FF-4410-9408-C4BFEAA3E15A">
+            <oc:name>Karain and Okuzini Chronology Chart</oc:name>
+            <oc:id>0E145AC4-01FF-4410-9408-C4BFEAA3E15A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/karain%20and%20Okuzini%20Chronology%202.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+<h5>Library of Congress Information on Öküzini Cave</h5>
+<ul>
+<li>Öküzini i Cave is located at the base of the Katran Dagıi Mountains</li>
+<li>Öküzini  Cave was found and excavated during the 1950s by K. Kokten</li>
+<li>Öküzini Cave is situated near Karain, to its northeast, at an altitude of 502m above sea level. It is 23.30m long and has easy access to a nearby water source.</li>
+</ul>
+<p>Source: <a href="http://id.loc.gov/authorities/subjects/sh2004009794">Library of Congress</a></p>
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/733C9CAE-73D9-4A00-2E74-1C0B4F63ADAF">
+        <oc:name>II</oc:name>
+        <oc:id>733C9CAE-73D9-4A00-2E74-1C0B4F63ADAF</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ABAD530F-6904-457B-0AAD-E53BC29817F3">
+        <oc:name>III</oc:name>
+        <oc:id>ABAD530F-6904-457B-0AAD-E53BC29817F3</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D6458F77-7603-41D9-E96B-3F95C89F666F">
+        <oc:name>III-IV</oc:name>
+        <oc:id>D6458F77-7603-41D9-E96B-3F95C89F666F</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9B347B53-B48E-4ECE-0DEF-D70F47A46D02">
+        <oc:name>IV</oc:name>
+        <oc:id>9B347B53-B48E-4ECE-0DEF-D70F47A46D02</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EBF9B1BB-F283-48FC-5C40-3852C246C128">
+        <oc:name>V</oc:name>
+        <oc:id>EBF9B1BB-F283-48FC-5C40-3852C246C128</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/56E9A03C-2158-4506-E6CA-E16C8011B04D">
+        <oc:name>VI</oc:name>
+        <oc:id>56E9A03C-2158-4506-E6CA-E16C8011B04D</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B7326535-234D-4C8C-630F-4EBDB1518B43">
+        <oc:name>VII</oc:name>
+        <oc:id>B7326535-234D-4C8C-630F-4EBDB1518B43</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BA28F6D1-7338-4670-E873-EFBE5432B90D">
+        <oc:name>VII/VIII</oc:name>
+        <oc:id>BA28F6D1-7338-4670-E873-EFBE5432B90D</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E3921F8E-D278-4255-DFA8-80DEDDB8A6FC">
+        <oc:name>VIII</oc:name>
+        <oc:id>E3921F8E-D278-4255-DFA8-80DEDDB8A6FC</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6F04697F-8C63-4EF2-B10E-37E00529DDF8">
+        <oc:name>X</oc:name>
+        <oc:id>6F04697F-8C63-4EF2-B10E-37E00529DDF8</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/534F9689-894E-4AB6-8F6A-DEE636E34985">
+        <oc:name>XI</oc:name>
+        <oc:id>534F9689-894E-4AB6-8F6A-DEE636E34985</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E274CF82-0E5A-4D6C-3CA1-79F5EF4CBCC2">
+        <oc:name>XII</oc:name>
+        <oc:id>E274CF82-0E5A-4D6C-3CA1-79F5EF4CBCC2</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Öküzini Cave: Öküzini Cave (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Öküzini Cave</dc:subject>
+    <dc:subject>Western Taurus Mountains</dc:subject>
+    <dc:subject>South West Anatolia</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Epipaleolithic</dc:subject>
+    <dc:subject>Terminal Pleistocene</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Forager adaptations</dc:subject>
+    <dc:subject>Hunting</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/CABB34F2-F360-405A-A7BE-0898A89193B8">Levent Atici</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8894EEC0-DC96-4304-1EFC-4572FD91717A">Zooarchaeology of Öküzini Cave</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+%C3%96k%C3%BCzini+Cave%3A+%C3%96k%C3%BCzini+Cave+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=%C3%96k%C3%BCzini+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Forager+adaptations&amp;rft.subject=Hunting&amp;rft.subject=Subsistence&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.08335</oc:geo_lat>
+      <oc:geo_long>30.579436</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+        <oc:source_name>Öküzini Cave</oc:source_name>
+        <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-27T22:34:31-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/27 22:34:31</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(18K BCE - 11K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-17840</oc:time_start>
+          <oc:time_finish>-10950</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+            <oc:source_name>Öküzini Cave</oc:source_name>
+            <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T16:54:10-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

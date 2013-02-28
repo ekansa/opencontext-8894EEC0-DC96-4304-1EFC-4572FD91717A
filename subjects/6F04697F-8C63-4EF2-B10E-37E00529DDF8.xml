@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="6F04697F-8C63-4EF2-B10E-37E00529DDF8" ownedBy="8894EEC0-DC96-4304-1EFC-4572FD91717A">
+  <arch:name>
+    <arch:string>X</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Stratum</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_8657d3acf</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>505B47E3-A186-42CF-5860-7A601472B1E7</arch:variableID>
+          <arch:integer>19800</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/2E49EB84-3E5D-40DC-F4F3-3A3C72A84EAE">2E49EB84-3E5D-40DC-F4F3-3A3C72A84EAE</oc:propid>
+          <oc:var_label type="integer">BP Cal. From</oc:var_label>
+          <oc:show_val>19800</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>256C1417-C6AE-4657-D745-AFC74C9B2DF0</arch:variableID>
+          <arch:integer>19000</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/05F738B7-B0F1-4706-0CA8-91C72C5C9D44">05F738B7-B0F1-4706-0CA8-91C72C5C9D44</oc:propid>
+          <oc:var_label type="integer">BP Cal. To</oc:var_label>
+          <oc:show_val>19000</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7001A3F5-F60C-4B6B-D87E-410C95A4CD90</arch:variableID>
+          <arch:valueID>2149D194-1D2E-43D3-2634-98C3218C6D17</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3E204011-4BA9-478A-0366-C5542E2E2420">3E204011-4BA9-478A-0366-C5542E2E2420</oc:propid>
+          <oc:var_label type="nominal">Climate Phase</oc:var_label>
+          <oc:show_val>LGM/Preb</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B5A1C0C6-DAAA-46D0-CF2A-DE50168FDC8B</arch:variableID>
+          <arch:valueID>C8B9763E-FDC1-4800-C488-D2F742D3F845</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0926FD02-CC73-4D02-380D-2E952D61B014">0926FD02-CC73-4D02-380D-2E952D61B014</oc:propid>
+          <oc:var_label type="nominal">Archaeological Unit</oc:var_label>
+          <oc:show_val>I</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AE2B2F91-DD2E-4A9E-3D08-2D9168375537</arch:variableID>
+          <arch:valueID>DFE66C91-11BA-4017-16B8-00D504F7DC36</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/45A82BE9-A473-4A25-52FE-4363B6B2E55E">45A82BE9-A473-4A25-52FE-4363B6B2E55E</oc:propid>
+          <oc:var_label type="alphanumeric">Stratum</oc:var_label>
+          <oc:show_val>Öküzini Cave Combined GH IX-X</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9E7C3D85-7761-4647-87E1-1E12DD8914C5</arch:variableID>
+          <arch:valueID>FD89342A-2DF6-4FB3-FFD5-7546D25FACBA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0C2AF28F-0A32-4F68-A141-DAD5C05231F1">0C2AF28F-0A32-4F68-A141-DAD5C05231F1</oc:propid>
+          <oc:var_label type="alphanumeric">Faunal Assemblage</oc:var_label>
+          <oc:show_val>OK1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>818A3134-1272-4122-2FC6-10E6CEEEF93F</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/A0B1D03C-9DD4-4AEC-009A-211D73322F80">A0B1D03C-9DD4-4AEC-009A-211D73322F80</oc:propid>
+          <oc:var_label type="integer">Phase</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+        <oc:name>Öküzini Cave</oc:name>
+        <oc:id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/6DDD368E-5969-4C57-EB50-4EDA9B66D909">
+        <oc:name>Square J5d</oc:name>
+        <oc:id>6DDD368E-5969-4C57-EB50-4EDA9B66D909</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B35F1D95-2880-45C7-5E58-FA7B91B62B83">
+        <oc:name>Square K5d</oc:name>
+        <oc:id>B35F1D95-2880-45C7-5E58-FA7B91B62B83</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/08046643-6F4C-470C-D984-2142BA7490DC">
+        <oc:name>Square L5c</oc:name>
+        <oc:id>08046643-6F4C-470C-D984-2142BA7490DC</oc:id>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Öküzini Cave: X (Stratum)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-27</dc:date>
+    <dc:subject>Öküzini Cave</dc:subject>
+    <dc:subject>Western Taurus Mountains</dc:subject>
+    <dc:subject>South West Anatolia</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Epipaleolithic</dc:subject>
+    <dc:subject>Terminal Pleistocene</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Forager adaptations</dc:subject>
+    <dc:subject>Hunting</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/CABB34F2-F360-405A-A7BE-0898A89193B8">Levent Atici</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/6F04697F-8C63-4EF2-B10E-37E00529DDF8</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/8894EEC0-DC96-4304-1EFC-4572FD91717A">Zooarchaeology of Öküzini Cave</oc:project_name>
+    <oc:pub_date>2013-02-27T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+%C3%96k%C3%BCzini+Cave%3A+X+%28Stratum%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=%C3%96k%C3%BCzini+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Forager+adaptations&amp;rft.subject=Hunting&amp;rft.subject=Subsistence&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F6F04697F-8C63-4EF2-B10E-37E00529DDF8</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.08335</oc:geo_lat>
+      <oc:geo_long>30.579436</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+        <oc:source_name>Öküzini Cave</oc:source_name>
+        <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-28T02:00:54-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/28 02:00:54</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(18K BCE - 11K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-17840</oc:time_start>
+          <oc:time_finish>-10950</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2D5EC703-DDBB-4ADB-F786-4669F2DC8918">
+            <oc:source_name>Öküzini Cave</oc:source_name>
+            <oc:source_id>2D5EC703-DDBB-4ADB-F786-4669F2DC8918</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T16:54:10-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
